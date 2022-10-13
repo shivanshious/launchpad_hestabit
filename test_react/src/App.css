@@ -1,0 +1,17 @@
+.heading{
+    text-align: center;
+}
+.main{
+    text-align: center;
+}
+.content{
+    display: flex;
+    width: 15%;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: auto;
+}
+.button{
+    font-size: x-large;
+    cursor: pointer;
+}
